@@ -1,0 +1,1551 @@
+// BITMAPS
+const unsigned char epd_bitmap_michaeljackson [] PROGMEM = {
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf3, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x3f, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x07, 0xff, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x03, 0xe0, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x40, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x60, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x70, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x80, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x1f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x7f, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x01, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x03, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0xf8, 0x07, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xef, 0xd8, 0x1f, 0xb7, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x8f, 0xef, 0x7e, 0x10, 0xff, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x4f, 0xfe, 0x7e, 0x00, 0x7f, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x4b, 0x9e, 0x3f, 0x12, 0xdf, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x07, 0xf0, 0x7f, 0xc2, 0x0f, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x07, 0xf8, 0xff, 0xc1, 0x23, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xe0, 0x05, 0xff, 0xff, 0xe3, 0x03, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x60, 0x06, 0xff, 0xff, 0xe0, 0x01, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x7c, 0x00, 0x3f, 0xff, 0xe0, 0x00, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0xe6, 0x02, 0x0f, 0x3f, 0xf0, 0x20, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xf9, 0xa0, 0x00, 0x03, 0xdf, 0xf0, 0x00, 0x7f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xf7, 0xa0, 0x00, 0x17, 0xff, 0xf2, 0x80, 0x7f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xd6, 0x80, 0x00, 0x1f, 0xff, 0xf9, 0x80, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xd0, 0x00, 0x00, 0x1f, 0xff, 0xf8, 0x80, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0x89, 0xc0, 0x00, 0x3f, 0xff, 0xf8, 0x80, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xe8, 0x02, 0x00, 0x7f, 0xff, 0xfc, 0x08, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfe, 0xc0, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x04, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfe, 0x08, 0x00, 0x01, 0xff, 0xff, 0xfc, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfc, 0x24, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfc, 0xa0, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x40, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfc, 0xc0, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x40, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf8, 0x20, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf9, 0x00, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xfa, 0x00, 0x00, 0x01, 0xff, 0xff, 0xff, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf0, 0x40, 0x00, 0x01, 0xff, 0xff, 0xff, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf0, 0x40, 0x00, 0x41, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xf2, 0x00, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x00, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xe2, 0x80, 0x00, 0x01, 0xff, 0xff, 0xfe, 0x80, 0x3f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xfe, 0x00, 0x0f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x00, 0x00, 0xff, 0xff, 0xfe, 0x00, 0x13, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xec, 0x00, 0x00, 0x00, 0x07, 0xff, 0xfe, 0x00, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xc4, 0x00, 0x00, 0x00, 0xff, 0xff, 0xff, 0x00, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x00, 0x00, 0xff, 0xff, 0xff, 0x00, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xc4, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0x00, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x00, 0x00, 0x3f, 0xff, 0xff, 0x80, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x82, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0x00, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x88, 0x00, 0x00, 0x00, 0x8f, 0xff, 0xff, 0x80, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0x80, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xc0, 0x01, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xc1, 0x00, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 0xff, 0xc5, 0x00, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xc0, 0x00, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 0xff, 0xdf, 0x80, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 0xff, 0xff, 0xe0, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x1c, 0x87, 0xff, 0xff, 0xf0, 0x3f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfc, 0x80, 0x00, 0x00, 0x01, 0x7b, 0xff, 0xff, 0xff, 0xf8, 0x3f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xff, 0xf8, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 0xff, 0xff, 0xfc, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x0f, 0xff, 0xff, 0x9f, 0xfd, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x33, 0xff, 0xff, 0x8f, 0xfd, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xf0, 0x00, 0x04, 0x00, 0x00, 0x07, 0xff, 0xf9, 0x0f, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xf0, 0x00, 0x04, 0x00, 0x00, 0x0f, 0xff, 0xc0, 0x0f, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xf0, 0x00, 0x0e, 0x00, 0x00, 0x03, 0xfc, 0x00, 0x0f, 0xfe, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xe0, 0x00, 0x0e, 0x00, 0x00, 0x0f, 0xe0, 0x00, 0x0e, 0xfe, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xe0, 0x00, 0x0e, 0x00, 0x00, 0x1f, 0x00, 0x00, 0x0e, 0xff, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xe0, 0x00, 0x1e, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0e, 0xff, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xe0, 0x00, 0x1e, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1c, 0x7f, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xc0, 0x00, 0x3f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x9c, 0x7f, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xc0, 0x00, 0x3f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0c, 0x7f, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0xc0, 0x00, 0x7f, 0x00, 0x00, 0x00, 0x00, 0x00, 0xe8, 0x7f, 0xff, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x80, 0x00, 0x7f, 0x00, 0x00, 0x00, 0x00, 0x00, 0x60, 0x77, 0xbf, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x80, 0x00, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x70, 0x76, 0x3f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x80, 0x00, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x70, 0x37, 0x3f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x00, 0x00, 0xff, 0x80, 0x00, 0x00, 0x00, 0x00, 0x30, 0x00, 0x5f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x00, 0x01, 0xff, 0x80, 0x00, 0x00, 0x00, 0x00, 0x71, 0x00, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xff, 0x00, 0x03, 0xff, 0x80, 0x00, 0x00, 0x00, 0x00, 0x70, 0x00, 0x7f, 0xff, 0xff, 
+  0xff, 0xff, 0xfe, 0x00, 0x03, 0xff, 0x80, 0x00, 0x00, 0x00, 0x00, 0x30, 0x00, 0x3f, 0xff, 0xff, 
+  0xff, 0xff, 0xfe, 0x00, 0x07, 0xff, 0x80, 0x00, 0x00, 0x00, 0x00, 0x20, 0x00, 0x17, 0xff, 0xff, 
+  0xff, 0xff, 0xfc, 0x00, 0x07, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x02, 0x07, 0xff, 0xff, 
+  0xff, 0xff, 0xfc, 0x40, 0x0f, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x20, 0x01, 0x0b, 0xff, 0xff, 
+  0xff, 0xff, 0xfc, 0x80, 0x0f, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x07, 0xff, 0xff, 
+  0xff, 0xff, 0xf8, 0xe8, 0x1f, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x83, 0xff, 0xff, 
+  0xff, 0xff, 0xf8, 0x00, 0x1f, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xc3, 0xff, 0xff, 
+  0xff, 0xff, 0xf0, 0x00, 0x0f, 0xff, 0xc0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xc3, 0xff, 0xff, 
+  0xff, 0xff, 0xe0, 0x00, 0x0f, 0xff, 0xe0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xc1, 0xff, 0xff, 
+  0xff, 0xff, 0xe0, 0x00, 0x0f, 0xff, 0xe0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xc0, 0xff, 0xff, 
+  0xff, 0xff, 0xe0, 0x00, 0x0f, 0xff, 0xe0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xff, 0xff, 
+  0xff, 0xff, 0xc0, 0x00, 0x1f, 0xff, 0xe0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 
+  0xff, 0xff, 0x80, 0x00, 0x1f, 0xff, 0xf0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x08, 0x3f, 0xff, 
+  0xff, 0xff, 0x80, 0x00, 0x3f, 0xff, 0xf0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x3f, 0xff, 
+  0xff, 0xff, 0x84, 0x00, 0x7f, 0xff, 0xf0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xc0, 0x00, 0x7f, 0xff, 0xf0, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xe0, 0x00, 0xff, 0xff, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xf0, 0x01, 0xff, 0xff, 0xf8, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xfc, 0x03, 0xff, 0xff, 0xf8, 0x00, 0x02, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xfe, 0x03, 0xff, 0xff, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xfe, 0x3f, 0xff, 0xff, 0xff, 0xc0, 0x28, 0x00, 0x00, 0x00, 0x00, 0x00, 0x1f, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x78, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0f, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0f, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0f, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x07, 0xff, 
+  0xff, 0xdf, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x07, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x07, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0x00, 0x00, 0x00, 0x07, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x00, 0x03, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x00, 0x03, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x00, 0x03, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x03, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x08, 0x00, 0x00, 0x03, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x0c, 0x00, 0x00, 0x01, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x0c, 0x00, 0x00, 0x01, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x1c, 0x00, 0x00, 0x01, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x1e, 0x00, 0x00, 0x01, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x1e, 0x00, 0x00, 0x00, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3e, 0x00, 0x00, 0x00, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0x00, 0x00, 0x00, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0x00, 0x00, 0x00, 0xff, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0x80, 0x00, 0x00, 0x7f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0x80, 0x00, 0x00, 0x7f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0x80, 0x00, 0x00, 0x7f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0xc0, 0x00, 0x00, 0x7f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x3f, 0xc0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x3f, 0xe0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x3f, 0xe0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x3f, 0xe0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xf0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xf0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xf0, 0x00, 0x00, 0x3f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xf8, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xf8, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0xff, 0xf8, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0xff, 0xfc, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x00, 0xff, 0xfc, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x01, 0xff, 0xfe, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x01, 0xff, 0xfe, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x01, 0xff, 0xfe, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x03, 0xff, 0xfe, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x03, 0xff, 0xff, 0x00, 0x00, 0x1f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x03, 0xff, 0xff, 0x00, 0x00, 0x0f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x07, 0xff, 0xff, 0x00, 0x00, 0x0f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x07, 0xff, 0xff, 0x00, 0x00, 0x0f, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x07, 0xff, 0xff, 0x00, 0x00, 0x07, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x0f, 0xff, 0xff, 0x00, 0x00, 0x07, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x80, 0x00, 0x0f, 0xff, 0xff, 0x00, 0x00, 0x03, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x1f, 0xff, 0xff, 0x80, 0x00, 0x03, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00, 0x1f, 0xff, 0xff, 0x80, 0x00, 0x03, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x3f, 0xff, 0xff, 0x80, 0x00, 0x01, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x3f, 0xff, 0xff, 0x80, 0x00, 0x01, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xc0, 0x00, 0x01, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfe, 0x00, 0x00, 0x7f, 0xff, 0xff, 0xc0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x00, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x01, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xfc, 0x00, 0x01, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x01, 0xff, 0xff, 0xff, 0xe0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x03, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x03, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x03, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x00, 
+  0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x03, 0xff, 0xff, 0xff, 0xf0, 0x00, 0x00
+};
+
+
+
+
+// USE THIS ONE
+
+// =======================================================================================
+//                     Starting Sketch for Notre Dame Droid Class
+// =======================================================================================
+//                          Last Revised Date: 09/04/2024
+//                             Revised By: Prof McLaughlin
+// =======================================================================================
+// ---------------------------------------------------------------------------------------
+//                          Libraries
+// ---------------------------------------------------------------------------------------
+#include <PS3BT.h>
+#include <usbhub.h>
+#include <Sabertooth.h>
+#include <Adafruit_TLC5947.h>
+#include <MP3Trigger.h>
+#include <Servo.h> 
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7735.h>
+
+// ---------------------------------------------------------------------------------------
+//                 Setup for USB, Bluetooth Dongle, & PS3 Controller
+// ---------------------------------------------------------------------------------------
+USB Usb;
+BTD Btd(&Usb);
+PS3BT *PS3Controller=new PS3BT(&Btd);
+
+// DECLARE *SERVO*
+Servo myServo; 
+
+
+// ---------------------------------------------------------------------------------------
+//    Used for PS3 Fault Detection
+// ---------------------------------------------------------------------------------------
+uint32_t msgLagTime = 0;
+uint32_t lastMsgTime = 0;
+uint32_t lastLoopTime = 0;
+int badPS3Data = 0;
+byte joystickDeadZoneRange = 15;
+int driveDeadBandRange = 10; 
+#define SABERTOOTH_ADDR 128
+Sabertooth *ST = new Sabertooth(SABERTOOTH_ADDR, Serial1); // TX1 - PIN#18
+
+boolean isPS3ControllerInitialized = false;
+boolean mainControllerConnected = false;
+boolean WaitingforReconnect = false;
+boolean isFootMotorStopped = true;
+
+// ---------------------------------------------------------------------------------------
+//    Used for PS3 Controller Request Management
+// ---------------------------------------------------------------------------------------
+long previousRequestMillis = millis(); //EVERY MILLIS NEEDS TO BE A LONG
+boolean extraRequestInputs = false;
+
+// ---------------------------------------------------------------------------------------
+//    Request State Machine Variables for PS3 Controller
+// ---------------------------------------------------------------------------------------
+
+//SERVO
+int servoAngle = 0; 
+
+// Main state varable to determine if a request has been made by the PS3 Controller
+boolean reqMade = false;
+boolean reqLeftJoyMade = false;
+boolean reqRightJoyMade = false;
+
+// LEFT & RIGHT Joystick State Request Values
+boolean reqLeftJoyUp = false;
+boolean reqLeftJoyDown = false;
+int reqLeftJoyYValue = 0;
+
+boolean reqLeftJoyLeft = false;
+boolean reqLeftJoyRight = false;
+int reqLeftJoyXValue = 0;
+
+boolean reqRightJoyUp = false;
+boolean reqRightJoyDown = false;
+int reqRightJoyYValue = 0;
+
+boolean reqRightJoyLeft = false;
+boolean reqRightJoyRight = false;
+int reqRightJoyXValue = 0;
+
+int currentSpeed = 0;
+int currentTurn = 0;
+boolean droidMoving = false;
+
+double speedScale = 0.75; // This variable lets you change the speed of the droid when your in auto driving mode. 
+bool SPORT_MODE = false;
+
+bool BACKWARDS_DRIVING_MODE = false;
+
+
+// PS3 Controller Button State Variables
+boolean reqArrowUp = false;
+boolean reqArrowDown = false;
+boolean reqArrowLeft = false;
+boolean reqArrowRight = false;
+boolean reqCircle = false;
+boolean reqCross = false;
+boolean reqTriangle = false;
+boolean reqSquare = false;
+boolean reqL1 = false;
+boolean reqL2 = false;
+boolean reqR1 = false;
+boolean reqR2 = false;
+boolean reqSelect = false;
+boolean reqStart = false;
+boolean reqPS = false;
+
+// ---------------------------------------------------------------------------------------
+//    Used for Pin 13 Main Loop Blinker
+// ---------------------------------------------------------------------------------------
+long blinkMillis = millis();
+boolean blinkOn = false;
+
+// ---------------------------------------------------------------------------------------
+//    Timer Controller Variable
+// ---------------------------------------------------------------------------------------
+long currentTime = millis();
+
+
+// ---------------------------------------------------------------------------------------
+//    Color Senor Setup
+// ---------------------------------------------------------------------------------------
+
+
+
+
+
+#define s0 30 // s0 on PIN #30  -- GREEN
+#define s1 28 // s1 0n PIN #28  -- BLACK
+#define s2 26 // s2 on PIN #26  -- WHITE
+#define s3 24 // s3 on PIN #24  -- LIGHT GRAY
+#define LED 34 // LED on PIN #34 -- PURPLE
+#define out 22 // out on PIN #22 -- BLUE
+int rValue = 0;
+int bValue = 0;
+int gValue = 0;
+int data=0;
+int currentColor=0; //0= UNKNOWN, 1=RED, 2=BLUE, 3=GREEN
+
+
+bool AUTONOMOUS_MODE = false; 
+bool autoInitialized = false;
+bool readingColors = false;
+
+long takeColorMillis = millis(); //timer to start the 0.5 seconds between reads, just sets state variable
+long colorStepMillis = millis(); //timer to delay 0.02 seconds between reading colors
+int colorStep = 1;
+
+// =======================================================================================
+//                                 Display System
+// =======================================================================================
+
+#define TFT_CS 10
+#define TFT_RST 9
+#define TFT_DC 8
+Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
+
+
+
+// ROUTINE VARIABLES
+
+boolean requestStartRoutine1 = false; 
+boolean requestStartRoutine2 = false; 
+boolean requestStartRoutine3 = false; 
+boolean routine1Executing = false;
+boolean routine2Executing = false;
+boolean routine3Executing = false;
+long startRoutineMillis = millis();
+boolean requestStopRoutine = false;
+
+
+// LED's
+#define clock 5
+#define data_led 4 
+#define latch 6
+Adafruit_TLC5947 LEDControl = Adafruit_TLC5947(1, clock, data_led, latch);
+int ledMaxBright = 4000; 
+int NUM_LEDS = 24;
+unsigned long previousMillis = 0;  
+const unsigned long PATTERN_INTERVAL = 1000;  
+
+
+// AUDIO!!
+MP3Trigger MP3Trigger;
+int currentSelectedSongNumber = 1;
+bool requestSongStart = false;
+bool requestSongStop = false;
+bool songPlaying = false;
+int  songVolume = 0;
+
+String songTitle[37] = {"Billie Jean",
+                        "Should Be Dancing",
+                        "Blue Suede Shoes",
+                        "So Lonesome",
+                        "Folsom Prison",
+                        "Cheatin Heart",
+                        "Jolene",
+                        "Big River",
+                        "Blues Eyes Cryin",
+                        "Imagine",
+                        "Long Tall Sally",
+                        "Pretty Woman",
+                        "Peggy Sue",
+                        "Everyday",
+                        "La Bamba",
+                        "Sweet Dreams",
+                        "Desperado",
+                        "The Twist",
+                        "Respect",
+                        "People Get Ready",
+                        "Dock of the Bay",
+                        "Dancing Streets",
+                        "My Imagination",
+                        "Stay Together",
+                        "Papa New Bag",
+                        "Stany By Me",
+                        "Who Do You Love",
+                        "My Generation",
+                        "Yesterday",
+                        "Mr Tambourine",
+                        "Fighting Man",
+                        "Paranoid",
+                        "Highway to Hell",
+                        "Roxanne",
+                        "Lola",
+                        "Love Rock N Roll",
+                        "Applause"
+                       };
+
+
+// TFT
+
+bool drawSongTitleScreen = false;
+
+// =======================================================================================
+//                                 Main Program
+// =======================================================================================
+// =======================================================================================
+//                                Setup Function
+// =======================================================================================
+void setup()
+{
+  
+    //Initialize Serial @ 115200 baud rate for Serial Monitor Debugging
+    Serial.begin(115200);
+    while (!Serial);
+    
+    //Initialize the USB Dongle and check for errors
+    if (Usb.Init() == -1)
+    {
+        Serial.println("OSC did not start");
+        while (1); //halt
+    }
+    
+    Serial.println("Bluetooth Library Started");
+
+    // SETUP SERVO
+    myServo.attach(12); // Attatch to pin 12. 
+    
+    
+    //PS3 Controller - sets the interrupt function to call when PS3 controller tries to connect
+    PS3Controller->attachOnInit(onInitPS3Controller); 
+
+    //Setup PIN 13 for Arduino Main Loop Blinker Routine
+    pinMode(13, OUTPUT);
+    digitalWrite(13, LOW);
+
+   // ----------------------------------------------
+   // YOUR SETUP CONTROL CODE SHOULD START HERE
+   // ----------------------------------------------
+    Serial1.begin(9600);
+    ST->autobaud();
+    ST->setTimeout(200);
+    ST->setDeadband(driveDeadBandRange);
+
+    // COLOR SENSOR SETUP
+    pinMode(s0,OUTPUT); // Sets output frequency scaling
+    pinMode(s1,OUTPUT); // Sets output frequency scaling
+    pinMode(s2,OUTPUT); // Sets photodiode to be used (Red/Green/Blue)
+    pinMode(s3,OUTPUT); // Sets photodiode to be used (Red/Green/Blue)
+    pinMode(LED,OUTPUT); // Turns LEDs on / off
+    pinMode(out,INPUT); // Returns the color value for the selected photodiode
+    digitalWrite(s0,HIGH); //Putting S0/S1 on HIGH/LOW sets scaling at 20%
+    digitalWrite(s1,LOW);
+    // Test LED Lights on Color Sensor
+    digitalWrite(LED,LOW); //Turn the LED lights ON
+
+
+    Serial.println("Droid in manual drive mode");
+
+
+    Serial2.begin(MP3Trigger::serialRate());
+    turnLEDsOn();
+    MP3Trigger.setup(&Serial2);
+    Serial.println("MP3 Trigger");
+    MP3Trigger.setVolume(0);
+    
+    
+    tft.initR(INITR_BLACKTAB);
+    tftPrintTest();
+    LEDControl.begin();
+    randomSeed(analogRead(A0));  // Uses noise from analog pin for random seed
+    delay(1000);
+    turnLEDsOff();
+    delay(2000);
+    turnLEDsOn();
+    DrawMichaelJackson();
+    delay(5000);
+
+        
+
+
+    
+    
+    
+  
+  
+}
+
+// =======================================================================================
+//    Main Program Loop - This is the recurring check loop for entire sketch
+// =======================================================================================
+void loop()
+{   
+   // Make sure the PS3 Controller is working - skip main loop if not
+   
+   readUSB();
+
+   currentTime = millis();
+   MP3Trigger.update();
+   
+   // Blink to show working heart beat on the Arduino control board
+   // If Arduino LED is not blinking - the sketch has crashed
+   if ((blinkMillis + 500) < currentTime) {
+      if (blinkOn) {
+        digitalWrite(13, LOW);
+        blinkOn = false;
+      } else {
+        digitalWrite(13, HIGH);
+        blinkOn = true;
+      }
+      blinkMillis = millis();
+   }
+
+   // If the PS3 controller has been connected - start processing the main controller routines
+   if (PS3Controller->PS3Connected) {
+   
+       // Read the PS3 Controller and set request state variables for this loop
+       readPS3Request();
+
+       if (!AUTONOMOUS_MODE){ 
+        moveDroid();
+       }
+       
+         //Call routineHandler!
+        routineHandler();
+        songHandler();
+
+       // Sample droid function call from PS3 request - REMOVE ONCE YOU UNDERSTAND STRUCTURE
+       if (reqArrowUp) {
+          zeroServo();
+       }
+       if(reqArrowDown){
+          straightServo();
+       }
+       
+       if( reqRightJoyLeft || reqRightJoyRight){
+          int currAngle = myServo.read();
+
+          if (reqRightJoyXValue > 0) {
+            currAngle = currAngle + 0.5;
+          }
+          
+          if (reqRightJoyXValue < 0) {
+            currAngle = currAngle - 0.5;
+          }
+          
+          if (currAngle > 180){
+            currAngle = 180;
+          }
+
+          if (currAngle < 0){
+            currAngle = 0;
+          }
+          
+          myServo.write(currAngle);
+          
+            
+
+          
+          
+       }
+       // Ignore extra inputs from the PS3 Controller for 1/2 second from prior input
+       if (extraRequestInputs){
+          if ((previousRequestMillis + 500) < currentTime)
+          {
+              extraRequestInputs = false;
+          }
+       }
+    
+       // If there was a PS3 request this loop - reset the request variables for next loop
+       if (reqMade) {
+           resetRequestVariables();
+           reqMade = false;
+       } 
+    }
+
+   
+
+
+  // Control Color sensor here.
+
+  if (AUTONOMOUS_MODE){ 
+    // Every 0.5 seconds, start a new cycle of reading the color input 
+
+    if (!autoInitialized){ //start without delay
+        moveDroidAutonomous();
+        autoInitialized = true;
+        takeColorMillis = millis(); //initialize 0.5 second timer 
+        
+    }
+    if (autoInitialized && !readingColors){
+      // initialize 
+      colorStepMillis = millis();
+      colorStep = 1;
+      if(takeColorMillis - millis() > 400){ 
+        readingColors = true;
+      }
+
+    }
+
+    if (autoInitialized && readingColors){
+
+      if(colorStepMillis - millis() > 20  ){
+        int old_color = currentColor;
+        readColor();
+        if (old_color != currentColor){
+          Serial.println(currentColor);
+          moveDroidAutonomous();
+        }
+         
+        
+      }
+      colorStepMillis = millis();
+      if (colorStep == 4){
+        readingColors = false;
+      }
+      else{
+        colorStep += 1;
+      }
+
+    }
+        
+      
+    }
+    
+
+    
+    
+    
+
+  //Call function that reads the colors.
+    
+  }
+
+
+
+void turnLEDsOff(){
+  for (int i = 0; i < NUM_LEDS; i++){
+      LEDControl.setPWM(i, 0);
+      LEDControl.write();
+    }
+  
+}
+
+void turnLEDsOn(){
+  for (int i = 0; i < NUM_LEDS; i++){
+      LEDControl.setPWM(i, ledMaxBright);
+      
+    }
+    LEDControl.write();
+}
+
+
+void setRandomPattern() {
+    static unsigned long lastPatternChange = 0;
+    const unsigned long FLASH_INTERVAL = 100;  // Adjust this for faster/slower flashing
+    
+    if (millis() - lastPatternChange >= FLASH_INTERVAL) {
+        // Set each LED randomly on or off
+        for (int i = 0; i < NUM_LEDS; i++) {
+            // random(2) gives either 0 or 1
+            if (random(2)) {
+                LEDControl.setPWM(i, ledMaxBright);
+            } else {
+                LEDControl.setPWM(i, 0);
+            }
+        }
+        LEDControl.write();
+        lastPatternChange = millis();
+    }
+}
+
+
+
+
+void DrawSongTitle(){
+  
+  if (drawSongTitleScreen){
+    // clear screen.
+    drawSongTitleScreen = false;
+    tft.fillScreen(ST77XX_BLUE);
+    tft.setCursor(0, 0);  // Reset cursor position after clearing screen
+    tft.setTextWrap(false);
+    tft.setTextSize(1.5);
+    tft.setTextColor(ST77XX_WHITE);
+    tft.println(songTitle[currentSelectedSongNumber-1]);
+
+  }
+
+   
+}
+
+
+void DrawMichaelJackson(){
+  tft.fillScreen(ST77XX_WHITE);
+  tft.drawBitmap(0,0, epd_bitmap_michaeljackson, tft.width(), tft.height(), ST77XX_BLACK);
+  
+}
+
+void songHandler() {
+  static int lastPlayedSong = 0;
+  
+  if (requestSongStart && lastPlayedSong != currentSelectedSongNumber) {
+    requestSongStart = false;
+    lastPlayedSong = currentSelectedSongNumber;
+    MP3Trigger.trigger(currentSelectedSongNumber);
+    drawSongTitleScreen = true;
+    DrawSongTitle();
+  }
+
+  if (requestSongStop) {
+    requestSongStop = false;
+    lastPlayedSong = -1;  // Reset to -1 so any new song request will work
+    MP3Trigger.stop();
+  }
+}
+
+
+
+
+void routineHandler() {
+    // Get current time once at start of function
+    unsigned long currentMillis = millis();
+    
+    // Handle stop request first
+    if (requestStopRoutine) {
+        ST->stop();  // Stop any movement
+        MP3Trigger.stop(); //stop audio
+        tft.fillScreen(ST77XX_WHITE); // clear tft
+        turnLEDsOff(); // turn leds off. 
+        routine1Executing = false;
+        routine2Executing = false;
+        routine3Executing = false;
+        requestStopRoutine = false;
+        return;  
+    }
+
+    // Start new routines if requested
+    if (requestStartRoutine1) {
+        startRoutineMillis = currentMillis;
+        routine1Executing = true;
+        routine2Executing = false;
+        routine3Executing = false;
+        requestStartRoutine1 = false;
+
+        // Start song! 
+        currentSelectedSongNumber = 1;
+        drawSongTitleScreen = true;
+        requestSongStart = true;
+    }
+    else if (requestStartRoutine2) {
+        startRoutineMillis = currentMillis;
+        routine1Executing = false;
+        routine2Executing = true;
+        routine3Executing = false;
+        requestStartRoutine2 = false;
+    }
+    else if (requestStartRoutine3) {
+        startRoutineMillis = currentMillis;
+        routine1Executing = false;
+        routine2Executing = false;
+        routine3Executing = true;
+        requestStartRoutine3 = false;
+    }
+
+    // Execute active routines
+    if (routine1Executing) {
+        executeMoonwalkRoutine(currentMillis - startRoutineMillis);
+        Serial.println("Starting Routine (1)");
+    }
+    else if (routine2Executing) {
+        executeRoutine2(currentMillis - startRoutineMillis);
+    }
+    else if (routine3Executing) {
+        executeRoutine3(currentMillis - startRoutineMillis);
+    }
+}
+void executeMoonwalkRoutine(unsigned long elapsedTime) {
+    Serial.println("Moonwalking...");
+    
+    // First moonwalk sequence (start-stop-start-stop)
+    if (elapsedTime < 1500) {         // First backward slide
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(55);
+    }
+    else if (elapsedTime < 2500) {    // First pause
+        turnLEDsOff();
+        ST->stop();
+    }
+    if (elapsedTime < 3500) {         // second backward slide
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(55);
+    }
+    else if (elapsedTime < 4500) {    // second pause
+        turnLEDsOff();
+        ST->stop();
+    }
+    else if (elapsedTime < 5500) {    // Second backward slide
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(55);
+    }
+        else if (elapsedTime < 6500) {    // second pause
+        turnLEDsOff();
+        ST->stop();
+    }
+    // Fast 360-degree spin
+    else if (elapsedTime < 7500) {    // Fast right spin (complete 360)
+        setRandomPattern();
+        ST->turn(90);
+        ST->drive(80);
+    }
+    
+    // Forward drive
+    else if (elapsedTime < 11000) {   // Drive forward for 2.5 seconds
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(-40);
+    }
+    
+    // Second moonwalk sequence
+    else if (elapsedTime < 13500) {   // First backward slide
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(55);
+    }
+    else if (elapsedTime < 14500) {   // First pause
+        turnLEDsOff();
+        ST->stop();
+    }
+    else if (elapsedTime < 17000) {   // Second backward slide
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(55);
+    }
+    else if (elapsedTime < 18000) {   // Second pause
+        turnLEDsOff();
+        ST->stop();
+    }
+    
+    // Random center dance moves
+    else if (elapsedTime < 20000) {   // Spin right
+        setRandomPattern();
+        ST->turn(70);
+        ST->drive(40);
+    }
+    else if (elapsedTime < 22000) {   // Spin left
+        setRandomPattern();
+        ST->turn(-70);
+        ST->drive(40);
+    }
+    else if (elapsedTime < 24000) {   // Quick forward-back
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(-35);
+    }
+    else if (elapsedTime < 26000) {   // Back to center
+        setRandomPattern();
+        ST->turn(0);
+        ST->drive(35);
+    }
+    else if (elapsedTime < 28000) {   // Sharp right twist
+        setRandomPattern();
+        ST->turn(80);
+        ST->drive(45);
+    }
+    else if (elapsedTime < 30000) {   // Sharp left twist
+        setRandomPattern();
+        ST->turn(-80);
+        ST->drive(45);
+    }
+    else if (elapsedTime < 32000) {   // Final spin right
+        setRandomPattern();
+        ST->turn(60);
+        ST->drive(40);
+    }
+    else if (elapsedTime < 34000) {   // Final spin left
+        setRandomPattern();
+        ST->turn(-60);
+        ST->drive(40);
+    }
+    else if (elapsedTime < 35000) {   // Final stop
+        turnLEDsOff();
+        ST->stop();
+    }
+    else if (elapsedTime < 40000) {   // Final stop
+        setRandomPattern();
+        ST->turn(90);
+        ST->drive(60);
+    }
+    else if(elapsedTime < 65000) {    // Play applause and show lights
+        static bool applauseStarted = false;
+          drawSongTitleScreen = true;
+        if (!applauseStarted) {
+            currentSelectedSongNumber = 37;  // Applause track
+            requestSongStart = true;
+            applauseStarted = true;
+        }
+        turnLEDsOn();
+    }
+    else {  // Routine complete
+        Serial.println("Moonwalk Routine Complete");
+        routine1Executing = false;
+        requestStopRoutine = true;
+    }
+}
+
+void executeRoutine2(unsigned long elapsedTime) {
+    // Example: Spin and move
+    if (elapsedTime < 1000) {  // 0-1 seconds
+        ST->turn(40);  // Spin right
+//        myServo.write(180);  // Move servo
+    }
+    else if (elapsedTime < 2000) {  // 1-2 seconds
+        ST->drive(-40);  // Move forward
+//        myServo.write(90);  // Center servo
+    }
+    else if (elapsedTime < 3000) {  // 2-3 seconds
+        ST->turn(-40);  // Spin left
+//        myServo.write(0);  // Move servo
+    }
+    else {  // Routine complete
+        ST->stop();
+        routine2Executing = false;
+    }
+}
+
+
+void executeRoutine3(unsigned long elapsedTime) {
+    // Example: Back and forth
+    if (elapsedTime < 1500) {  // 0-1.5 seconds
+        ST->drive(-40);  // Forward
+    }
+    else if (elapsedTime < 2000) {  // 1.5-2 seconds
+        ST->stop();  // Brief pause
+    }
+    else if (elapsedTime < 3500) {  // 2-3.5 seconds
+        ST->drive(40);  // Backward
+    }
+    else {  // Routine complete
+        ST->stop();
+        routine3Executing = false;
+    }
+}
+
+   
+
+
+// =======================================================================================
+//      TFT - Display Function
+// =======================================================================================
+void tftPrintTest() {
+ Serial.println("In tft print test");
+ tft.setTextWrap(false);
+ tft.fillScreen(ST77XX_WHITE);
+ tft.setCursor(0,0); 
+ tft.setTextSize(3);
+ tft.setTextColor(ST77XX_BLUE);
+ tft.println("B3AT");
+  tft.setTextColor(ST77XX_BLUE);
+ tft.println("PARTY");
+  tft.setTextColor(ST77XX_BLUE);
+ tft.println("TIME");
+
+ }
+
+ 
+// SAMPLE CUSTOM DROID FUNCTION from PS3 REQUEST - REMOVE ONCE YOU UNDERSTAND STRUCTURE
+void zeroServo()
+{
+    servoAngle = 0; 
+    myServo.write(servoAngle);
+    Serial.println("Droid is now executing my custom ARROW UP function");
+}
+void straightServo(){
+    servoAngle = 180; 
+    myServo.write(servoAngle);
+    Serial.println("Droid is now executing my custom ARROW UP function");
+}
+
+
+
+// =======================================================================================
+//      YOUR CUSTOM DROID FUNCTIONS SHOULD END HERE
+// =======================================================================================
+
+// =======================================================================================
+//      CORE DROID CONTROL FUNCTIONS START HERE - EDIT WITH CAUTION
+// =======================================================================================
+// Read the PS3 Controller and set request state variables
+
+
+// MOVE DROID FUNCTIONS
+void moveDroid(){
+
+  if (reqLeftJoyMade){
+
+    currentSpeed = reqLeftJoyYValue;
+    currentTurn = reqLeftJoyXValue;
+    ST->turn(currentTurn);
+    ST->drive(currentSpeed);
+
+    if(!droidMoving){
+      droidMoving = true;
+    
+    }
+    
+  }
+  else{
+    if (droidMoving){
+      ST->stop();
+      droidMoving = false;
+      currentTurn = 0;
+      currentSpeed = 0;
+    }
+     
+  }
+
+
+}
+
+
+void moveDroidAutonomous(){
+     droidMoving=true;
+
+    if ( currentColor == 1){     // Red - turn left
+     ST->turn(40); // 20 
+     ST->drive(-25); //-30
+      tft.fillScreen(ST77XX_RED);
+      
+    }
+    else if( currentColor == 2){  // Blue - go straight
+      Serial.println("In movedroidauto");
+      ST->turn(0);// 0
+      ST->drive(-52); //-50
+      tft.fillScreen(ST77XX_BLUE);
+
+      
+      
+    }
+    
+    else if(currentColor == 3){    //Green - turn left
+      ST->turn(-40); // -20
+      ST->drive(-22); //-30 
+      tft.fillScreen(ST77XX_GREEN);
+    }
+
+
+  
+}
+
+void readColor(){
+
+ 
+  if (colorStep == 1){
+    digitalWrite(s2,LOW); //S2 S3 set to LOW/LOW for RED
+    digitalWrite(s3,LOW);
+    data=pulseIn(out,LOW); //Take a color measurement
+    rValue = map(data,46,129,255,0); //Convert to standard RGB range
+  }
+ 
+  if (colorStep == 2){
+    // Take a BLUE reading from the color sensor
+    digitalWrite(s2,LOW); //S2 S3 set to LOW/HIGH for Blue
+    digitalWrite(s3,HIGH);
+    data=pulseIn(out,LOW); //Take a color measurement
+    bValue = map(data,51,129,255,0); //Convert to standard RGB range
+  
+  }
+
+  if (colorStep == 3){
+    //Take a GREEN reading from the color sensor
+    digitalWrite(s2,HIGH); //S2 S3 set to HIGH/HIGH for green
+    digitalWrite(s3,HIGH);
+    data = pulseIn(out,LOW); //Take a color measurement
+    gValue = map(data,51,129,255,0); //Convert to staÏndard RGB range
+  }
+
+  if (colorStep == 4){
+//    Serial.println();
+//    Serial.print("The color is: ");
+    // Determine if the tape color is RED GREEN or BLUE
+    if (gValue > rValue && gValue > bValue){
+//        Serial.println("Green");
+        currentColor = 3;
+    } 
+    else if(rValue > bValue && rValue > gValue) {
+//        Serial.println("Red");
+        currentColor = 1;
+    }
+    else if (bValue > rValue && bValue > gValue) {
+//          Serial.println("Blue");
+          currentColor = 2;
+    }
+      
+    else{
+//      Serial.println("Unknown");
+      currentColor = 0;
+    }
+  }
+
+  
+}
+
+
+
+void readPS3Request()
+{
+     if (!extraRequestInputs) {
+      
+         if (PS3Controller->getButtonPress(UP))
+         {              
+                Serial.println("Button: UP Selected");
+
+                if (!routine2Executing){
+                  requestStartRoutine2 = true;
+                }
+                
+                reqArrowUp = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+                
+         }
+      
+         if (PS3Controller->getButtonPress(DOWN))
+         {
+                Serial.println("Button: DOWN Selected -> STOP ROUTINE");
+
+                if (routine1Executing || routine2Executing || routine3Executing){
+                  requestStopRoutine = true;
+                  requestSongStop = true;
+                }
+                    
+                reqArrowDown = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+           
+         }
+    
+         if (PS3Controller->getButtonPress(LEFT))
+         {
+                Serial.println("Button: LEFT Selected");
+
+                if (!routine1Executing){
+                  
+                  requestStartRoutine1 = true;
+                }
+    
+                reqArrowLeft = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+    
+         }
+         
+         if (PS3Controller->getButtonPress(RIGHT))
+         {
+
+                if (!routine3Executing){
+                  requestStartRoutine3 = true;
+                }
+                
+                reqArrowRight = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+                         
+         }
+         
+         if (PS3Controller->getButtonPress(CIRCLE)) // BACKWARDS DRIVING MODE
+         {
+                BACKWARDS_DRIVING_MODE = !BACKWARDS_DRIVING_MODE;
+
+                if (BACKWARDS_DRIVING_MODE){
+                  Serial.println("Backwards Driving Mode Enabled ");
+                }
+                else{
+                  Serial.println("Backwards Driving Mode Enabled ");
+                  
+                }
+                reqCircle = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+               
+         }
+    
+         if (PS3Controller->getButtonPress(CROSS))
+         {
+                Serial.println("Button: CROSS Selected");
+    
+                reqCross = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+                  
+         }
+         
+         if (PS3Controller->getButtonPress(TRIANGLE))
+         {
+
+                if (AUTONOMOUS_MODE){
+                  autoInitialized = false;
+                }
+                AUTONOMOUS_MODE = !AUTONOMOUS_MODE;
+                if (AUTONOMOUS_MODE){ 
+                  Serial.println("Droid in Autonomous Driving Mode. Time to party! ");
+                  digitalWrite(LED,HIGH); //Turn the LED lights ON
+
+                }
+                else{
+                  digitalWrite(LED,LOW); //Turn the LED lights ON
+                  if (autoInitialized){ 
+                    if (droidMoving){
+                            droidMoving = false;
+                            ST->stop();
+                            currentTurn = 0;
+                            currentSpeed = 0;
+                    }
+                      
+                  }
+                  Serial.println("Droid in Autonomous Driving Mode. Time to party! ");
+                }
+                  
+          
+                
+                 
+                Serial.println("Button: TRIANGLE Selected");
+    
+                reqTriangle = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+                  
+         }
+         
+    
+         if (PS3Controller->getButtonPress(SQUARE)) // SQUARE = SPORT MODE
+         {
+                 
+                 SPORT_MODE = !SPORT_MODE; 
+                 if (SPORT_MODE){
+                
+                    speedScale = 2;
+                  
+                 }
+                 else{
+                    speedScale = 0.35;
+                 }
+                
+                reqSquare = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+                  
+         }
+         
+         if (PS3Controller->getButtonPress(L1))
+         {
+                Serial.println("Button: LEFT 1 Selected");
+    
+                reqL1 = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(L2))
+         {
+                Serial.println("Button: LEFT 2 Selected");
+                speedScale -= 0.1; 
+                if ( speedScale < 0.15 ){
+                  speedScale = 0.15; 
+                }
+                Serial.print("Speed Scale: ");
+                Serial.println(speedScale ); 
+                
+                reqL2 = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(R1))
+         {
+                Serial.println("Button: RIGHT 1 Selected");
+    
+                reqR1 = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(R2))
+         {
+                Serial.println("Button: RIGHT 2 Selected");
+                speedScale += 0.1; //Adjust the speed scale! 
+                if (speedScale > 1 ){
+                  speedScale = 1; 
+                }
+                Serial.print("Speed Scale: ");
+                Serial.println(speedScale );
+    
+                reqR2 = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(SELECT))
+         {
+                Serial.println("Button: SELECT Selected");
+    
+                reqSelect = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(START))
+         {
+                Serial.println("Button: START Selected");
+    
+                reqStart = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+    
+         if (PS3Controller->getButtonPress(PS))
+         {
+                Serial.println("Button: PS Selected");
+    
+                reqPS = true;
+                reqMade = true;
+                
+                previousRequestMillis = millis();
+                extraRequestInputs = true;
+         }
+     }
+
+     if (((abs(PS3Controller->getAnalogHat(LeftHatY)-128) > joystickDeadZoneRange) || (abs(PS3Controller->getAnalogHat(LeftHatX)-128) > joystickDeadZoneRange)))
+     {    
+            reqLeftJoyUp = false;
+            reqLeftJoyDown = false;
+            reqLeftJoyLeft = false;
+            reqLeftJoyRight = false;
+            reqLeftJoyYValue = 0;
+            reqLeftJoyXValue = 0;
+            reqLeftJoyMade = true;
+
+            int currentValueY = PS3Controller->getAnalogHat(LeftHatY) - 128;
+            int currentValueX = PS3Controller->getAnalogHat(LeftHatX) - 128;
+
+            if (BACKWARDS_DRIVING_MODE){
+
+              currentValueY *= -1;
+              
+            }
+            
+            char yString[5];
+            itoa(currentValueY, yString, 10);
+
+            char xString[5];
+            itoa(currentValueX, xString, 10);
+
+            Serial.print("LEFT Joystick Y Value: ");
+            Serial.println(yString);
+//            Serial.print("LEFT Joystick X Value: ");
+//            Serial.println(xString);
+
+            if (currentValueY > joystickDeadZoneRange) {
+                Serial.println("Left Joystick DOWN");
+                reqLeftJoyDown = true;
+                reqLeftJoyYValue = currentValueY * speedScale;
+            }
+
+            if (currentValueY < (-1 * joystickDeadZoneRange)) {
+                Serial.println("Left Joystick UP");
+                reqLeftJoyUp = true;
+                reqLeftJoyYValue = currentValueY * speedScale;
+            }
+
+            if (currentValueX > joystickDeadZoneRange) {
+                Serial.println("Left Joystick RIGHT");
+                reqLeftJoyRight = true;
+                reqLeftJoyXValue = currentValueX * speedScale;
+            }
+            
+            if (currentValueX < (-1 * joystickDeadZoneRange)) {
+                Serial.println("Left Joystick LEFT");
+                reqLeftJoyLeft = true;
+                reqLeftJoyXValue = currentValueX * speedScale;
+            }
+     } else {
+          if (reqLeftJoyMade) {
+              reqLeftJoyUp = false;
+              reqLeftJoyDown = false;
+              reqLeftJoyLeft = false;
+              reqLeftJoyRight = false;
+              reqLeftJoyYValue = 0;
+              reqLeftJoyXValue = 0;
+              reqLeftJoyMade = false;
+          }
+     }
+
+     if (((abs(PS3Controller->getAnalogHat(RightHatY)-128) > joystickDeadZoneRange) || (abs(PS3Controller->getAnalogHat(RightHatX)-128) > joystickDeadZoneRange)))
+     {
+            reqRightJoyUp = false;
+            reqRightJoyDown = false;
+            reqRightJoyLeft = false;
+            reqRightJoyRight = false;
+            reqRightJoyYValue = 0;
+            reqRightJoyXValue = 0;
+            reqRightJoyMade = true;
+            
+            int currentValueY = PS3Controller->getAnalogHat(RightHatY) - 128;
+            int currentValueX = PS3Controller->getAnalogHat(RightHatX) - 128;
+
+            char yString[5];
+            itoa(currentValueY, yString, 10);
+
+            char xString[5];
+            itoa(currentValueX, xString, 10);
+
+//            Serial.print("RIGHT Joystick Y Value: ");
+//            Serial.println(yString);
+//            Serial.print("RIGHT Joystick X Value: ");
+//            Serial.println(xString);
+
+            if (currentValueY > joystickDeadZoneRange) {
+                Serial.println("Right Joystick DOWN");
+                reqRightJoyDown = true;
+                reqRightJoyYValue = currentValueY;
+            }
+
+            if (currentValueY < (-1 * joystickDeadZoneRange)) {
+                Serial.println("Right Joystick UP");
+                reqRightJoyUp = true;
+                reqRightJoyYValue = currentValueY;
+            }
+
+            if (currentValueX > joystickDeadZoneRange) {
+                Serial.println("Right Joystick RIGHT");
+                reqRightJoyRight = true;
+                reqRightJoyXValue = currentValueX;
+            }
+            
+            if (currentValueX < (-1 * joystickDeadZoneRange)) {
+                Serial.println("Right Joystick LEFT");
+                reqRightJoyLeft = true;
+                reqRightJoyXValue = currentValueX;
+            }
+     } else {
+          if (reqRightJoyMade) {
+              reqRightJoyUp = false;
+              reqRightJoyDown = false;
+              reqRightJoyLeft = false;
+              reqRightJoyRight = false;
+              reqRightJoyYValue = 0;
+              reqRightJoyXValue = 0;
+              reqRightJoyMade = false;
+          }
+     }    
+}
+
+
+
+
+// Reset the PS3 request variables on every processing loop when needed
+void resetRequestVariables()
+{
+    reqArrowUp = false;
+    reqArrowDown = false;
+    reqArrowLeft = false;
+    reqArrowRight = false;
+    reqCircle = false;
+    reqCross = false;
+    reqTriangle = false;
+    reqSquare = false;
+    reqL1 = false;
+    reqL2 = false;
+    reqR1 = false;
+    reqR2 = false;
+    reqSelect = false;
+    reqStart = false;
+    reqPS = false;
+}
+
+// Initialize the PS3 Controller Trying to Connect
+void onInitPS3Controller()
+{
+    PS3Controller->setLedOn(LED1);
+    isPS3ControllerInitialized = true;
+    badPS3Data = 0;
+
+    mainControllerConnected = true;
+    WaitingforReconnect = true;
+
+    Serial.println("We have the controller connected");
+    Serial.print("Dongle Address: ");
+    String dongle_address = String(Btd.my_bdaddr[5], HEX) + ":" + String(Btd.my_bdaddr[4], HEX) + ":" + String(Btd.my_bdaddr[3], HEX) + ":" + String(Btd.my_bdaddr[2], HEX) + ":" + String(Btd.my_bdaddr[1], HEX) + ":" + String(Btd.my_bdaddr[0], HEX);
+    Serial.println(dongle_address);
+}
+
+// USB Read Function - Supports Main Program Loop
+void readUSB()
+{
+    Usb.Task();    
+}
